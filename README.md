@@ -483,6 +483,17 @@ Contact us: **(919) 348-4912** | [petronellatech.com/contact-us](https://petrone
 - [Emergency IT Support](https://petronellatech.com/contact-us/emergency-room/)
 - [Free Security Assessment](https://petronellatech.com/contact-us/)
 
+## Professional Compliance Services
+
+Need help with penetration testing or security assessments? **Petronella Technology Group** provides comprehensive cybersecurity services:
+
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/) - Managed security and assessments
+- [CMMC Compliance Guide](https://petronellatech.com/compliance/cmmc-compliance-guide/) - Full CMMC Level 2 preparation
+- [HIPAA Compliance Services](https://petronellatech.com/compliance/hipaa-compliance/) - Healthcare security assessments
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - AI infrastructure with compliance built in
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm headquartered in Raleigh, NC. Our entire team holds CMMC Registered Practitioner credentials. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## License
 
 MIT License -- see [LICENSE](LICENSE) for details.
